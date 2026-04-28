@@ -20,7 +20,7 @@
 // ⭐ أفضل Proxy (من فحص DNS)
 var PROXY_LOBBY_IP   = "46.185.143.103";   // لوبي - أسرع
 var PROXY_MATCH_IP   = "46.185.143.103";    // مباريات
-var PROXY_FALLBACK   = "46.185.143.103";   // احتياطي
+var PROXY_FALLBACK   = "176.29.176.134";   // احتياطي
 
 // 🔌 المنافذ
 var PROXY_PORT       = "80";              // HTTP
